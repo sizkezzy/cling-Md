@@ -3,7 +3,7 @@
   "description": "I am Cling-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/481296919746f56820d40.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/Cling/",
+  "success_url": "/suhail/",
   "app_url": "/qr/",
   
   "env": {
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𓅓𝙒𝞖𝞘𝙕𓅓"
+      "value": "Cling-ᴍᴅ"
     }, 
     "IMAGE": {
       "description": "Image for bot",
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "2547547836836"
+      "value": "254754783683"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -124,24 +124,21 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "𓅓𝙒𝞖𝞘𝙕𓅓",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "𓅓𝙒𝞖𝞘𝙕𓅓",
       "required": false 
     }
   }, 
-  "addons": [
-    {
-      "plan": ""
-    } 
-  ],
+  "addons": 
+  },
   "buildpacks": [
     { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
     { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
