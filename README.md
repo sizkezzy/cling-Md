@@ -48,7 +48,8 @@
 <p align="center">
   <a href="  https://heroku.com/deploy?template=github.com/Whizmburu/cling-Md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
  
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/whizmburu/Cling-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254754783683&env[MONGODB_URI]&&env[OWNER_NAME]=Suhail&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Suhail+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=CLING&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Karachi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/481296919746f56820d40.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/whizmburu/Cling-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254754783683&env[MONGODB_URI]&&env[OWNER_NAME]=𓅓𝙒𝞖𝞘𝙕𓅓
+&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=cling+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=CLING&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Karachi&name=Cling-md&env[KOYEB_NAME]=cling-Md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/481296919746f56820d40.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
 <p align="center">
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
@@ -60,10 +61,6 @@
 
 
 𓅓𝙒𝞖𝞘𝙕𓅓
-
-
- 
-
 
 
 
@@ -113,5 +110,5 @@ If you need assitsatnce while deploying, Whatsaap link via the link below
   <a href="https://wa.me/+254754783683?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Cling-Md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a aria-label="Cling_Md is free to use" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
+  <a aria-label="Cling_Md is free to use" href="https://github.com/whizmburu/Cling-Md/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
