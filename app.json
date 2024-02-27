@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "2547547836836"
+      "value": "254754783683"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -128,7 +128,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "Cling Md",
       "required": false 
     },
     "PACK_AUTHER": {
@@ -138,9 +138,6 @@
     }
   }, 
   "addons": [
-    {
-      "plan": "heroku-postgresql:basic"
-    } 
   ],
   "buildpacks": [
     { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
