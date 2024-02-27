@@ -74,8 +74,13 @@
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
-6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fwhizmburu%2FCling-Md)***
-7.  ***Deploy on [`Replit`](https://replit.com/github/whizmburu/Cling-Md)***
+                                <img alt="Suhail docs" height="300" src="https://telegra.ph/file/481296919746f56820d40.jpg">
+
+
+
+
+2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fwhizmburu%2FCling-Md)***
+3.  ***Deploy on [`Replit`](https://replit.com/github/whizmburu/Cling-Md)***
 
 
 ##
@@ -92,5 +97,5 @@
 ## 
 - *Cling-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use Cling-Md at your own risk by keeping this warning in mind.*
 - [`heroku`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fwhizmburu%2FCling-Md)
