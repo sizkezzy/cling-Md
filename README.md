@@ -23,7 +23,7 @@
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
   <a aria-label="Cling_Md is free to use" href="https://chat.whatsapp.com/L1DzziySDqdLWibrD2R1J7" target="_blank">
-    <img alt="Whiz Mburu Yt" src="https://chat.whatsapp.com/L1DzziySDqdLWibrD2R1J7" target="_blank" />
+    <img alt="Whiz.yt" src="https://chat.whatsapp.com/L1DzziySDqdLWibrD2R1J7" target="_blank" />
   </a>
 
 </p>
