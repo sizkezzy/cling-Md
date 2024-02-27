@@ -46,7 +46,7 @@
   <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
-  <a href="  https://heroku.com/deploy?template=github.com/Whizmburu/cling-Md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://heroku.com/deploy?template=github.com/Whizmburu/cling-Md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
  
   <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/whizmburu/Cling-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254754783683&env[MONGODB_URI]&&env[OWNER_NAME]=𓅓𝙒𝞖𝞘𝙕𓅓
 &env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=cling+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=CLING&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Karachi&name=Cling-md&env[KOYEB_NAME]=cling-Md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/481296919746f56820d40.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
