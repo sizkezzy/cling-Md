@@ -139,7 +139,7 @@
   }, 
   "addons": [
     {
-      "plan": "heroku-postgresql:basic"
+      
     } 
   ],
   "buildpacks": [
