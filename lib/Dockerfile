@@ -8,7 +8,7 @@
 # 
 #    * @project_name : Suhail-Md
 #    * @author : @SuhailTechInfo
-#    * @youtube : https://www.youtube.com/c/@SuhailTechInfo
+#    * @youtube : whiz @254754783683
 #    * @description : Suhail-Md ,A Multi-functional whatsapp bot md.
 #    * @version 1.2.8
 # 
@@ -18,7 +18,7 @@
  
 
 FROM quay.io/suhailtechinfo/suhail-v2
-RUN git clone https://github.com/SuhailTechInfo/Suhail-Md /root/Suhail
+RUN git clone https://github.com/SuhailTechInfo/Suhail-Md/root/Suhail
 WORKDIR /root/Suhail/
 RUN npm install
 EXPOSE 8000
