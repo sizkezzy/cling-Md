@@ -2,7 +2,7 @@
 <p align="center"> Introducing Cling_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 
-<h3 align="center"> TEST HEROKU BAN PROBLEM! </h3> 
+<h3 align="center"> HEROKU BAN PROBLEM FIXED! </h3> 
 
 
 
