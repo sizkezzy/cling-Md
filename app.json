@@ -1,9 +1,9 @@
 {
-  "name": "Cling-md@1.2.8",
-  "description": "I am Cling-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better",
+  "name": "Cling-MD @v. 1.1.1",
+  "description": "I am Cling-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem :=254754783683",
   "logo": "https://telegra.ph/file/481296919746f56820d40.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/Cling/",
+  "success_url": "/cling/",
   "app_url": "/qr/",
   
   "env": {
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𓅓𝙒𝞖𝞘𝙕𓅓"
+      "value": "Cling-ᴍᴅ"
     }, 
     "IMAGE": {
       "description": "Image for bot",
@@ -95,7 +95,7 @@
       "required" :false
     },
     "PREFIX": {
-      "description": "Enter your desired prefix for bot.",
+      "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
       "value": "."
     },
     "OWNER_NUMBER": {
@@ -133,7 +133,7 @@
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "Cling Md",
       "required": false 
     }
   }, 
