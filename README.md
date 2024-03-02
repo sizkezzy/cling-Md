@@ -72,10 +72,12 @@
 ## Deployment Methods
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
+2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
 
 
-6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fwhizmburu%2FCling-Md)***
-7.  ***Deploy on [`Replit`](https://replit.com/github/whizmburu/Cling-Md)***
+
+3. ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fwhizmburu%2FCling-Md)***
+4.  ***Deploy on [`Replit`](https://replit.com/github/whizmburu/Cling-Md)***
 
 
 ##
