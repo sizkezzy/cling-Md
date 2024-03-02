@@ -1,7 +1,7 @@
 {
    "name": "Cling-md",
-   "version": "1.1.1",
-   "description": "Multi device whatsapp bot by SuhailTechInfo.",
+   "version": "1.1.2",
+   "description": "Multi device whatsapp bot by whiz.",
    "main": "lib/smd.js",
    "type": "commonjs",  
    "scripts": {
@@ -72,8 +72,8 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/SuhailTechInfo/Suhail-Md.git"
+      "url": "git+https://github.com/whizmburu/cling-md.git"
    },
-   "bugs": { "url": "https://github.com/SuhailTechInfo/Suhail-Md/issues" },
-   "homepage": "https://github.com/SuhailTechInfo/Suhail-Md#readme"
+   "bugs": { "url": "https://github.com/whizmburu/cling-md/issues" },
+   "homepage": "https://github.com/whizmburu/cling-Md#readme"
 }
