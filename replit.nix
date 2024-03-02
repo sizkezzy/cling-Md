@@ -1,21 +1,22 @@
-run = "npm start || yarn start || node lib/smd.js"
-# stop =  "npm stop || yarn stop"
-entrypoint = "config.js"
-hidden = [".config"]
-
-
-
-
-[unitTest]
-language = "nodejs"
-
-onBoot = "npm i || yarn"
-
-[nix]
-channel = "stable-23_05"
-
-[deployment]
-run = ["yarn","start"]
-deploymentTarget = "cloudrun"
-ignorePorts = false
- 
+{ pkgs }: {
+    deps = [ 
+        pkgs.nodejs
+        pkgs.nodePackages.typescript
+        pkgs.ffmpeg
+        pkgs.imagemagick
+        pkgs.git
+        pkgs.neofetch
+        pkgs.libwebp
+        pkgs.speedtest-cli
+        pkgs.wget
+        pkgs.yarn
+        pkgs.libuuid
+    ]; 
+    env = {
+        LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath [
+            pkgs.libuuid
+        ];
+    };
+}  
+            
+               
