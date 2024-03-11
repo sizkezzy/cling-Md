@@ -1,8 +1,5 @@
 build:
   docker:
-      worker: /lib/Dockerfile
+      web: cling_Md
 run:
-  worker: npm start
- 
-
-  
+  web: npm start
