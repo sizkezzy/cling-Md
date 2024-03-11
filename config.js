@@ -19,7 +19,7 @@ global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
-global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
+global.github=process.env.GITHUB|| "https://github.com/whizmburu/cling-md";
 global.gurl  = process.env.GURL || "https://chat.whatsapp.com/L1DzziySDqdLWibrD2R1J7";
 global.website= process.env.GURL|| "https://chat.whatsapp.com/L1DzziySDqdLWibrD2R1J7" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "" ; // SET LOGO FOR IMAGE 
